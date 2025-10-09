@@ -43,14 +43,14 @@ endmodule
 
 Developed by: RegisterNumber:*/25004682
 **RTL REALIZATION**
-<img width="1075" height="591" alt="image" src="https://github.com/user-attachments/assets/585d7b01-aea4-4d8a-bd8c-208759744492" />
+<img width="789" height="639" alt="image" src="https://github.com/user-attachments/assets/3b6008c9-3870-471f-b370-71e506760317" />
+
 
 **RTL**
-<img width="1110" height="573" alt="image" src="https://github.com/user-attachments/assets/21e6ac10-c667-441a-85a2-fa3109078855" />
-
+<img width="505" height="630" alt="image" src="https://github.com/user-attachments/assets/2e16391d-4daa-40c1-b931-ff361c87df44" />
 
 **Timing Diagram**
-
+<img width="814" height="208" alt="image" src="https://github.com/user-attachments/assets/5ffa26a9-c5e9-4556-a623-f38e2a82c3a8" />
 **Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
